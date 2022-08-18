@@ -5,7 +5,7 @@
 ### Ubuntu
 
 ```bash
-curl -o- https://gitlab.com/david-plugge/setup/raw/main/scripts/install-ubuntu.sh | sh
+curl -o- https://raw.githubusercontent.com/Yuslo22/setup/main/scripts/install-ubuntu.sh | sh
 ```
 
 ## use wget
